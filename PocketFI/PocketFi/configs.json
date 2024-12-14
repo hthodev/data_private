@@ -1,0 +1,6 @@
+{
+  "limit": 100,
+  "countdown": 25200,
+  "country_time": "en-US",
+  "delayEachAccount": [5, 8]
+}

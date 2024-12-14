@@ -1,0 +1,9 @@
+{
+  "limit": 100,
+  "countdown": 14000,
+  "country_time": "en-US",
+  "howManySpins": 15,
+  "howManyMultiTaps": 30,
+  "howManyDailyAttemps": 15,
+  "bettingCoin": 15000000
+}

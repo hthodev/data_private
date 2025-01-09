@@ -1,0 +1,37 @@
+{
+  "name": "kaisanode",
+  "version": "1.0.0",
+  "description": "kaiar node beta cli version",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "register": "node register.js",
+    "setup": "node setup.js",
+    "spin": "node spin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zlkcyber/kaisar-bot.git"
+  },
+  "keywords": [
+    "kaisar-bot",
+    "kaisar-node",
+    "kaisar-extension",
+    "kaisar-cli"
+  ],
+  "author": "@zlkcyber",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zlkcyber/kaisar-bot/issues"
+  },
+  "homepage": "https://github.com/Zlkcyber/kaisar-bot#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.5"
+  }
+}

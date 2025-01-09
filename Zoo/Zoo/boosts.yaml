@@ -1,0 +1,15 @@
+- { key: '5_boost_for_24_hours', price: 50, boost: 5, days: 1 }
+- { key: '10_boost_for_24_hours', price: 100, boost: 10, days: 1 }
+- { key: '15_boost_for_24_hours', price: 250, boost: 15, days: 1 }
+- { key: '20_boost_for_24_hours', price: 1000, boost: 20, days: 1 }
+- { key: '25_boost_for_24_hours', price: 5000, boost: 25, days: 1 }
+- { key: '30_boost_for_24_hours', price: 17000, boost: 30, days: 3 }
+- { key: '35_boost_for_3_days', price: 25000, boost: 35, days: 3 }
+- { key: '40_boost_for_3_days', price: 40000, boost: 40, days: 3 }
+- { key: '45_boost_for_3_days', price: 60000, boost: 45, days: 3 }
+- { key: '50_boost_for_3_days', price: 90000, boost: 50, days: 3 }
+- { key: '60_boost_for_7_days', price: 225000, boost: 60, days: 7 }
+- { key: '70_boost_for_7_days', price: 350000, boost: 70, days: 7 }
+- { key: '80_boost_for_7_days', price: 525000, boost: 80, days: 7 }
+- { key: '90_boost_for_7_days', price: 800000, boost: 90, days: 7 }
+- { key: '100_boost_for_7_days', price: 1200000, boost: 100, days: 7 }

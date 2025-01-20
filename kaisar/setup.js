@@ -46,7 +46,7 @@ async function startFarmingWithToken(token) {
             });
             if (response.status === 200) {
                 console.log("Mining started successfully:");
-                saveUUIDToFile(extensionId);   
+                 saveUUIDToFile(extensionId);   
             }
         } catch (error) {
             if (error.response) {
@@ -58,6 +58,8 @@ async function startFarmingWithToken(token) {
 
                 if (status === 412) {
                     console.log("Mining already started with another ID.\nYou must put Manually your extension id in id.txt");
+                    saveUUIDToFile('id');   
+
                     return; 
                 }
             } else {
